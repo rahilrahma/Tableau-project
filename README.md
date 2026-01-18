@@ -94,6 +94,9 @@ All visuals update dynamically based on filter selections.
 ---
 ### Dashboard screenshot
 
+![Tableau dashboard](screenshots/Tableau_dashboard.png)
+
+![Tableau model](screenshots/Tableau_model.png)
 
 ## 📌 Key Insights
 - Identified hotels with consistently high customer ratings
